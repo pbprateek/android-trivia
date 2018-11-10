@@ -8,10 +8,11 @@ Since students haven't yet learned about saving data or the Android lifecycle, i
 ## Screenshots
 ![Screenshot1](screenshots/tree.PNG  )
 
-![Screenshot1](screenshots/Screenshot_20181110-172432.png ) ![Screenshot2](screenshots/Screenshot_20181110-172439.png )
-
-
-![Screenshot3](screenshots/Screenshot_20181110-172449.png  )
+<p align = 'center'>
+<img src = 'screenshots/Screenshot_20181110-172432.png' height = '246px'>
+<img src = 'screenshots/Screenshot_20181110-172439.png' height = '246px'>
+<img src = 'screenshots/Screenshot_20181110-172449.png' height = '246px'>
+</p>
 
 
 
